@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIO", "FileIO\FileIO.csproj", "{1B4165FB-3252-4E78-94A2-BA5C0894C2AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streaming", "Streaming\Streaming.csproj", "{A5E12026-7B54-4DFB-8D9D-4C9E9F690C67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization", "Serialization\Serialization.csproj", "{5E961E9C-1424-4173-8C37-61C90B906655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B4165FB-3252-4E78-94A2-BA5C0894C2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4165FB-3252-4E78-94A2-BA5C0894C2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4165FB-3252-4E78-94A2-BA5C0894C2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4165FB-3252-4E78-94A2-BA5C0894C2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5E12026-7B54-4DFB-8D9D-4C9E9F690C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E12026-7B54-4DFB-8D9D-4C9E9F690C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E12026-7B54-4DFB-8D9D-4C9E9F690C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E12026-7B54-4DFB-8D9D-4C9E9F690C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E961E9C-1424-4173-8C37-61C90B906655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E961E9C-1424-4173-8C37-61C90B906655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E961E9C-1424-4173-8C37-61C90B906655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E961E9C-1424-4173-8C37-61C90B906655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C1FED40-5E4F-44E8-8248-75211B51651D}
+	EndGlobalSection
+EndGlobal

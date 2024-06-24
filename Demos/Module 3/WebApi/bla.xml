@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>NU</title>
+        <link>https://www.nu.nl/</link>
+        <description>Het laatste nieuws het eerst op NU.nl</description>
+        <atom:link href="https://www.nu.nl/rss" rel="self"></atom:link>
+        <language>nl-nl</language>
+        <copyright>Copyright (c) 2023, NU</copyright>
+        <lastBuildDate>Tue, 04 Jul 2023 15:35:11 +0200</lastBuildDate>
+        <ttl>60</ttl>
+        <atom:logo>https://www.nu.nl/static/img/atoms/images/logos/rss-logo-250x40.png</atom:logo>
+        <item>
+            <title>China slaat terug in chipconflict met Europa en de VS</title>
+            <link>
+                https://www.nu.nl/economie/6270813/china-slaat-terug-in-chipconflict-met-europa-en-de-vs.html</link>
+            <description>China beperkt vanaf 1 augustus de export van twee belangrijke grondstoffen
+                voor chips. Het land is veruit de grootste producent van germanium en gallium. De
+                stap volgt op het besluit van het Nederlandse kabinet om de uitvoer van chipmachines
+                naar China te beperken.</description>
+            <pubDate>Tue, 04 Jul 2023 15:35:11 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270813/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/wchxi32az056_sqr256.jpg/china-slaat-terug-in-chipconflict-met-europa-en-de-vs.jpg"></enclosure>
+            <category>Economie</category>
+            <dc:creator>Tom van Gurp</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+        </item>
+        <item>
+            <title>Zeker 31 gewonden onder wie 9 kinderen bij Russische beschietingen in Kharkiv</title>
+            <link>
+                https://www.nu.nl/spanningen-oekraine/6270812/zeker-31-gewonden-onder-wie-9-kinderen-bij-russische-beschietingen-in-kharkiv.html</link>
+            <description>Bij Russische beschietingen in het noordoostelijke Oekraïense dorp
+                Pervomaikyi zijn dinsdag zeker 31 mensen gewond geraakt. Onder hen zijn 9 kinderen.</description>
+            <pubDate>Tue, 04 Jul 2023 15:13:04 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270812/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/aq9xrfbajuch_sqr256.jpg/zeker-31-gewonden-onder-wie-9-kinderen-bij-russische-beschietingen-in-kharkiv.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Buitenland</category>
+            <category>Oorlog in Oekraïne</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: AFP</dc:rights>
+            <atom:link
+                href="https://nu.nl/buitenland/6270783/stoltenberg-blijft-toch-jaar-langer-navo-baas-na-mislukte-zoektocht-naar-opvolger.html"
+                rel="related"
+                title="Stoltenberg blijft toch jaar langer NAVO-baas na mislukte zoektocht naar opvolger"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/videos/6270775/rusland-schiet-mogelijk-oekraiense-drones-uit-de-lucht-boven-moskou.html"
+                rel="related"
+                title="Rusland schiet mogelijk Oekraïense drones uit de lucht boven Moskou"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/spanningen-oekraine/6270682/doden-en-meerdere-gewonden-bij-russische-aanval-op-oekraiense-stad-sumy.html"
+                rel="related"
+                title="Doden en meerdere gewonden bij Russische aanval op Oekraïense stad Sumy"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/spanningen-oekraine/6270510/achter-de-oorlog-inwoners-kramatorsk-zijn-kapot-van-zoveelste-tragedie.html"
+                rel="related"
+                title="Achter de oorlog: Inwoners Kramatorsk zijn kapot van zoveelste tragedie"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Kleine tornado laat in en rond Apeldoorn spoor van vernieling achter</title>
+            <link>
+                https://www.nu.nl/binnenland/6270809/kleine-tornado-laat-in-en-rond-apeldoorn-spoor-van-vernieling-achter.html</link>
+            <description>Een kleine tornado die dinsdagochtend boven Apeldoorn raasde, heeft een
+                spoor van vernieling achtergelaten. Terrassen raakten beschadigd, bomen werden uit
+                de grond gerukt en op de A50 belandde een caravan op z'n kop.</description>
+            <pubDate>Tue, 04 Jul 2023 15:09:49 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270809/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/a0mxr48a9b2n_sqr256.jpg/kleine-tornado-laat-in-en-rond-apeldoorn-spoor-van-vernieling-achter.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: GinoPress</dc:rights>
+        </item>
+        <item>
+            <title>Schiphol verwacht deze zomer flink meer reizigers dan een jaar eerder</title>
+            <link>
+                https://www.nu.nl/economie/6270808/schiphol-verwacht-deze-zomer-flink-meer-reizigers-dan-een-jaar-eerder.html</link>
+            <description>Het wordt deze zomer druk op Schiphol. Tijdens de zomervakantie, die voor
+                de Regio Midden vrijdag begint, vertrekt een kwart meer reizigers dan een jaar
+                eerder. De luchthaven verwacht gemiddeld 68.000 vertrekkende passagiers per dag.</description>
+            <pubDate>Tue, 04 Jul 2023 15:03:35 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270808/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/usax2h1anlsl_sqr256.jpg/schiphol-verwacht-deze-zomer-flink-meer-reizigers-dan-een-jaar-eerder.jpg"></enclosure>
+            <category>Economie</category>
+            <dc:creator>Noémi van de Pol</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>Spektakel in Giro Donne: Van Vleuten steviger in roze na tumultueuze afdaling</title>
+            <link>
+                https://www.nu.nl/wielrennen/6270803/spektakel-in-giro-donne-van-vleuten-steviger-in-roze-na-tumultueuze-afdaling.html</link>
+            <description>Annemiek van Vleuten heeft dinsdag haar leiding verstevigd in de vierde
+                etappe van de Giro Donne. De rozetruidrager van Movistar ontsnapte aan een val en
+                zag haar grote concurrente Elisa Longo Borghini even later hard onderuitgaan.</description>
+            <pubDate>Tue, 04 Jul 2023 15:32:37 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270803/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/ml4xnsnaf9za_sqr256.jpg/spektakel-in-giro-donne-van-vleuten-steviger-in-roze-na-tumultueuze-afdaling.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Sport</category>
+            <category>Wielrennen</category>
+            <dc:creator>onze sportredactie</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+        </item>
+        <item>
+            <title>Video | Bestuurder rijdt in op voetgangers en begint met mes te steken in Tel
+                Aviv</title>
+            <link>
+                https://www.nu.nl/videos/6270810/bestuurder-rijdt-in-op-voetgangers-en-begint-met-mes-te-steken-in-tel-aviv.html</link>
+            <description>Een automobilist is dinsdag in de Israëlische stad Tel Aviv op voetgangers
+                ingereden. De bestuurder stapte daarna uit en begon met een mes mensen neer te
+                steken.</description>
+            <pubDate>Tue, 04 Jul 2023 14:53:49 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270810/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/7nxxxbcar7bf_sqr256.jpg/bestuurder-rijdt-in-op-voetgangers-en-begint-met-mes-te-steken-in-tel-aviv.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Buitenland</category>
+            <category>Video's</category>
+            <dc:creator>onze videoredactie</dc:creator>
+        </item>
+        <item>
+            <title>Weer van morgen verwacht je eerder in de herfst, maar kans op storm is erg klein</title>
+            <link>
+                https://www.nu.nl/binnenland/6270807/weer-van-morgen-verwacht-je-eerder-in-de-herfst-maar-kans-op-storm-is-erg-klein.html</link>
+            <description>Met veel regen en zware windstoten is het weer woensdagochtend onstuimig.
+                Het KNMI heeft daarom voor het hele land code geel uitgegeven. Dat verwacht je
+                eerder in de herfst, maar zulk weer is niet uitzonderlijk in juli.</description>
+            <pubDate>Tue, 04 Jul 2023 15:11:34 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270807/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/oi7xgysap7nj_sqr256.jpg/weer-van-morgen-verwacht-je-eerder-in-de-herfst-maar-kans-op-storm-is-erg-klein.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>Robbert van der Linde</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+            <atom:link
+                href="https://nu.nl/tech/6270318/wordt-het-nou-bloedheet-of-niet-weerapps-zijn-het-niet-altijd-eens.html"
+                rel="related"
+                title="Wordt het nou bloedheet of niet? Weerapps zijn het niet altijd eens"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Nog steeds veel overtredingen bij uitzendbureaus, arbeidsmigranten zijn de dupe</title>
+            <link>
+                https://www.nu.nl/economie/6270805/nog-steeds-veel-overtredingen-bij-uitzendbureaus-arbeidsmigranten-zijn-de-dupe.html</link>
+            <description>Bij uitzendbureaus gaat nog steeds veel mis. De identiteit van werknemers
+                wordt nog vaak niet nagetrokken en veel uitzendkrachten worden onderbetaald. Met
+                name arbeidsmigranten zijn de dupe van de overtredingen.</description>
+            <pubDate>Tue, 04 Jul 2023 14:38:50 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270805/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/zyaxs2na646o_sqr256.jpg/nog-steeds-veel-overtredingen-bij-uitzendbureaus-arbeidsmigranten-zijn-de-dupe.jpg"></enclosure>
+            <category>Economie</category>
+            <dc:creator>Noémi van de Pol</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>Raad van State buigt zich over gebruik van vuurwerk bij Rammstein-concerten</title>
+            <link>
+                https://www.nu.nl/muziek/6270802/raad-van-state-buigt-zich-over-gebruik-van-vuurwerk-bij-rammstein-concerten.html</link>
+            <description>De Raad van State buigt zich woensdag om 10.00 uur in een zitting over de
+                concerten van de Duitse metalband Rammstein in Groningen. De zitting gaat over de
+                ontbrandingsvergunning die nodig is om vuurwerk af te steken.</description>
+            <pubDate>Tue, 04 Jul 2023 14:17:18 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270802/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/u2zx9cdam4b9_sqr256.jpg/raad-van-state-buigt-zich-over-gebruik-van-vuurwerk-bij-rammstein-concerten.jpg"></enclosure>
+            <category>Muziek</category>
+            <category>Media en Cultuur</category>
+            <dc:creator>onze entertainmentredactie</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+            <atom:link
+                href="https://nu.nl/muziek/6270717/natuurbeschermers-naar-rechter-om-lawaai-bij-groningse-concerten-rammstein.html"
+                rel="related"
+                title="Natuurbeschermers naar rechter om lawaai bij Groningse concerten Rammstein"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/muziek/6269066/rammstein-mag-van-groningen-meer-geluid-maken-dan-toegestaan.html"
+                rel="related" title="Rammstein mag van Groningen meer geluid maken dan toegestaan"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Zeven grote techbedrijven melden zich bij Europa voor nieuwe techwet</title>
+            <link>
+                https://www.nu.nl/tech-wetenschap/6270800/zeven-grote-techbedrijven-melden-zich-bij-europa-voor-nieuwe-techwet.html</link>
+            <description>Zeven grote techbedrijven, waaronder Apple en Amazon, hebben zich vanwege
+                een nieuwe techwet bij de Europese Commissie gemeld. Met diensten waar we bijna niet
+                omheen kunnen, hebben deze concerns een poortwachtersfunctie. Voor zulke bedrijven
+                gaan binnenkort strengere concurrentieregels gelden.</description>
+            <pubDate>Tue, 04 Jul 2023 14:11:23 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270800/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/xzbx1w8adith_sqr256.jpg/zeven-grote-techbedrijven-melden-zich-bij-europa-voor-nieuwe-techwet.jpg"></enclosure>
+            <category>Economie</category>
+            <category>Tech</category>
+            <category>Tech &amp; Wetenschap</category>
+            <dc:creator>Tim Wijkman-van Aalst</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>Mobieltje verdwijnt volgend jaar uit klas, verbod in hele school niet uitgesloten</title>
+            <link>
+                https://www.nu.nl/tech/6270801/mobieltje-verdwijnt-volgend-jaar-uit-klas-verbod-in-hele-school-niet-uitgesloten.html</link>
+            <description>Leerlingen die vanaf 1 januari 2024 een telefoon meenemen in de klas,
+                moeten daar een goede reden voor hebben. Het ministerie van Onderwijs komt met een
+                dringend advies voor scholen, blijkt uit een kamerbrief van minister Robbert
+                Dijkgraaf.</description>
+            <pubDate>Tue, 04 Jul 2023 15:14:20 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270801/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/muox4xkaxvkw_sqr256.jpg/mobieltje-verdwijnt-volgend-jaar-uit-klas-verbod-in-hele-school-niet-uitgesloten.jpg"></enclosure>
+            <category>Economie</category>
+            <category>Algemeen</category>
+            <category>Tech</category>
+            <category>Tech &amp; Wetenschap</category>
+            <dc:creator>onze techredactie</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+        </item>
+        <item>
+            <title>Video | Kermisbezoekers hangen uren ondersteboven in attractie in VS</title>
+            <link>
+                https://www.nu.nl/videos/6270798/kermisbezoekers-hangen-uren-ondersteboven-in-attractie-in-vs.html</link>
+            <description>Enkele mensen hingen zondag drie uur ondersteboven in een attractie in de
+                Amerikaanse staat Wisconsin. De achtbaan op het Forest County Festival in Crandon
+                liep vast door een mechanisch defect.</description>
+            <pubDate>Tue, 04 Jul 2023 13:46:05 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270798/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/ehaxi3lasj4t_sqr256.jpg/kermisbezoekers-hangen-uren-ondersteboven-in-attractie-in-vs.jpg"></enclosure>
+            <category>Video's</category>
+            <dc:creator>onze videoredactie</dc:creator>
+        </item>
+        <item>
+            <title>Go Ahead Eagles-spits Stokkers enkele maanden aan de kant met oogklachten</title>
+            <link>
+                https://www.nu.nl/voetbal/6270797/go-ahead-eagles-spits-stokkers-enkele-maanden-aan-de-kant-met-oogklachten.html</link>
+            <description>Go Ahead Eagles moet het de komende maanden zonder Finn Stokkers stellen.
+                De spits kampt met hardnekkige oogklachten.</description>
+            <pubDate>Tue, 04 Jul 2023 13:22:45 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270797/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/xozxvl3ae921_sqr256.jpg/go-ahead-eagles-spits-stokkers-enkele-maanden-aan-de-kant-met-oogklachten.jpg"></enclosure>
+            <category>Sport</category>
+            <category>Voetbal</category>
+            <dc:creator>onze sportredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>Coalities Noord-Holland en Drenthe zijn rond: beide met BBB</title>
+            <link>
+                https://www.nu.nl/politiek/6270794/coalities-noord-holland-en-drenthe-zijn-rond-beide-met-bbb.html</link>
+            <description>Verkiezingswinnaar BBB, VVD, PvdA en GroenLinks hebben een coalitie
+                gesloten in Noord-Holland. Ook Drenthe krijgt een college met BBB, VVD en de PvdA.
+                Daar maakt het CDA het kwartet vol.</description>
+            <pubDate>Tue, 04 Jul 2023 14:25:54 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270794/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/a4zxsbna6m49_sqr256.jpg/coalities-noord-holland-en-drenthe-zijn-rond-beide-met-bbb.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Politiek</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+        </item>
+        <item>
+            <title>PSV verwacht snel witte rook rond Pepi en is in gesprek met Noa Lang</title>
+            <link>
+                https://www.nu.nl/voetbal/6270795/psv-verwacht-snel-witte-rook-rond-pepi-en-is-in-gesprek-met-noa-lang.html</link>
+            <description>Trainer Peter Bosz en technisch directeur Earnest Stewart hebben dinsdag
+                bevestigd dat Ricardo Pepi zeer waarschijnlijk de eerste zomeraanwinst van PSV
+                wordt. De club is ook serieus in de markt voor Noa Lang.</description>
+            <pubDate>Tue, 04 Jul 2023 13:25:49 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270795/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/8blx3j0a8sn7_sqr256.jpg/psv-verwacht-snel-witte-rook-rond-pepi-en-is-in-gesprek-met-noa-lang.jpg"></enclosure>
+            <category>Sport</category>
+            <category>Voetbal</category>
+            <dc:creator>onze sportredactie</dc:creator>
+            <dc:rights>copyright photo: Pro Shots</dc:rights>
+            <atom:link
+                href="https://nu.nl/voetbal/6270545/bosz-heeft-technische-staf-psv-rond-met-komst-van-assistent-schaars.html"
+                rel="related"
+                title="Bosz heeft technische staf PSV rond met komst van assistent Schaars"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/voetbal/6270580/psv-ziet-middenvelder-gutierrez-na-vijf-seizoenen-terugkeren-naar-mexico.html"
+                rel="related"
+                title="PSV ziet middenvelder Gutiérrez na vijf seizoenen terugkeren naar Mexico"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/voetbal/6269877/feyenoord-begint-nieuw-seizoen-tegen-fortuna-sittard-psv-treft-fc-utrecht.html"
+                rel="related"
+                title="Feyenoord begint nieuw seizoen tegen Fortuna Sittard, PSV treft FC Utrecht"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Steeds meer jongeren nemen bewust overdosis pijnstillers</title>
+            <link>
+                https://www.nu.nl/binnenland/6270787/steeds-meer-jongeren-nemen-bewust-overdosis-pijnstillers.html</link>
+            <description>Jongeren tussen de dertien en zeventien jaar zijn de afgelopen twee jaar
+                steeds vaker hun toevlucht gaan nemen tot een overdosis pijnstillers. Ze slikten
+                vooral paracetamol of ibuprofen. Deze pijnstillers zijn bij normaal gebruik niet
+                schadelijk, maar in grote hoeveelheden wel.</description>
+            <pubDate>Tue, 04 Jul 2023 13:39:54 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270787/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/31mx3zuakibj_sqr256.jpg/steeds-meer-jongeren-nemen-bewust-overdosis-pijnstillers.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+        </item>
+        <item>
+            <title>Zeeuwse gemeente Kapelle stopt plaatselijk met maaien na vondst zeldzame bij</title>
+            <link>
+                https://www.nu.nl/dieren/6270790/zeeuwse-gemeente-kapelle-stopt-plaatselijk-met-maaien-na-vondst-zeldzame-bij.html</link>
+            <description>In het Zeeuwse dorp Wemeldinge is een zeldzame bijensoort gevonden. Om de
+                dieren niet te verstoren, heeft de gemeente Kapelle bepaald dat er niet meer gemaaid
+                wordt in de omgeving waar ze gevonden werden.</description>
+            <pubDate>Tue, 04 Jul 2023 13:53:07 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270790/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/ykyxi00afyxy_sqr256.jpg/zeeuwse-gemeente-kapelle-stopt-plaatselijk-met-maaien-na-vondst-zeldzame-bij.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Dieren</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+        </item>
+        <item>
+            <title>Video | Windhoos laat spoor van vernieling achter in en rondom Apeldoorn</title>
+            <link>
+                https://www.nu.nl/videos/6270793/windhoos-laat-spoor-van-vernieling-achter-in-en-rondom-apeldoorn.html</link>
+            <description>Een windhoos heeft dinsdag in en rondom Apeldoorn schade aangericht. De
+                kleine tornado trok ook over de dorpen Beekbergen, Lieren en Klarenbeek.</description>
+            <pubDate>Tue, 04 Jul 2023 12:48:09 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270793/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/07ax614adq2t_sqr256.jpg/windhoos-laat-spoor-van-vernieling-achter-in-en-rondom-apeldoorn.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Video's</category>
+            <dc:creator>onze videoredactie</dc:creator>
+        </item>
+        <item>
+            <title>Nieuwe PSV-trainer Bosz ontkent sollicitatie bij Ajax: 'Dat zijn onzinverhalen'</title>
+            <link>
+                https://www.nu.nl/voetbal/6270789/nieuwe-psv-trainer-bosz-ontkent-sollicitatie-bij-ajax-dat-zijn-onzinverhalen.html</link>
+            <description>Peter Bosz ontkent dat hij in de afgelopen maanden bij Ajax heeft
+                gesolliciteerd. De nieuwe trainer van PSV werd lange tijd gelinkt aan een terugkeer
+                bij de club uit Amsterdam.</description>
+            <pubDate>Tue, 04 Jul 2023 14:31:27 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270789/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/pnaxn78a7biu_sqr256.jpg/nieuwe-psv-trainer-bosz-ontkent-sollicitatie-bij-ajax-dat-zijn-onzinverhalen.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Sport</category>
+            <category>Voetbal</category>
+            <dc:creator>onze sportredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+            <atom:link
+                href="https://nu.nl/voetbal/6270545/bosz-heeft-technische-staf-psv-rond-met-komst-van-assistent-schaars.html"
+                rel="related"
+                title="Bosz heeft technische staf PSV rond met komst van assistent Schaars"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/voetbal/6270580/psv-ziet-middenvelder-gutierrez-na-vijf-seizoenen-terugkeren-naar-mexico.html"
+                rel="related"
+                title="PSV ziet middenvelder Gutiérrez na vijf seizoenen terugkeren naar Mexico"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Liveblog | Renners lijken weinig zin te hebben in vierde Tour de France-etappe</title>
+            <link>
+                https://www.nu.nl/tour-de-france/6270786/renners-lijken-weinig-zin-te-hebben-in-vierde-tour-de-france-etappe.html</link>
+            <description> </description>
+            <pubDate>Tue, 04 Jul 2023 15:10:35 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270786/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/d8fxw93ab2dg_sqr256.jpg/renners-lijken-weinig-zin-te-hebben-in-vierde-tour-de-france-etappe.jpg"></enclosure>
+            <category>Sport</category>
+            <category>Tour de France</category>
+            <category>Wielrennen</category>
+            <dc:creator>onze sportredactie</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+        </item>
+        <item>
+            <title>Kinderopvangpersoneel kan extra uren werken en loopt zo de gaten dicht</title>
+            <link>
+                https://www.nu.nl/economie/6270763/kinderopvangpersoneel-kan-extra-uren-werken-en-loopt-zo-de-gaten-dicht.html</link>
+            <description>Om personeelstekorten het hoofd te bieden, kunnen deeltijders in de
+                kinderopvang meer uren werken. Het eerste proefproject leidt al tot resultaat. Bijna
+                een op de vijf medewerkers heeft het eigen contract uitgebreid.</description>
+            <pubDate>Tue, 04 Jul 2023 14:07:11 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270763/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/l4axog1atnvg_sqr256.jpg/kinderopvangpersoneel-kan-extra-uren-werken-en-loopt-zo-de-gaten-dicht.jpg"></enclosure>
+            <category>Economie</category>
+            <category>NUverder</category>
+            <dc:creator>Thijs Rösken</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+            <atom:link
+                href="https://nu.nl/economie/6269046/zweden-bewijst-waarom-bijna-gratis-kinderopvang-wel-kan-werken.html"
+                rel="related" title="Zweden bewijst waarom bijna gratis kinderopvang wél kan werken"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/politiek/6268919/snoeihard-rapport-laat-weinig-heel-van-kabinetsplan-voor-bijna-gratis-kinderopvang.html"
+                rel="related"
+                title="Snoeihard rapport laat weinig heel van kabinetsplan voor bijna gratis kinderopvang"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/economie/6257287/tijdelijke-bonus-om-parttimers-meer-uren-te-laten-werken-boekt-eerste-succes.html"
+                rel="related"
+                title="Tijdelijke bonus om parttimers meer uren te laten werken boekt eerste succes"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Video | Bodycam toont hoe vrouw uit brandende auto wordt gered in VS</title>
+            <link>
+                https://www.nu.nl/videos/6270785/bodycam-toont-hoe-vrouw-uit-brandende-auto-wordt-gered-in-vs.html</link>
+            <description>Een Amerikaanse hulpsheriff heeft veel lof ontvangen nadat hij zaterdag een
+                bestuurder uit een brandende auto heeft gered. De beelden zijn maandag gepubliceerd.</description>
+            <pubDate>Tue, 04 Jul 2023 12:15:15 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270785/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/6cxx2k7am7hq_sqr256.jpg/bodycam-toont-hoe-vrouw-uit-brandende-auto-wordt-gered-in-vs.jpg"></enclosure>
+            <category>Video's</category>
+            <dc:creator>onze videoredactie</dc:creator>
+        </item>
+        <item>
+            <title>NU+ | Europese ruimtevaart komt na laatste vlucht Ariane 5-raket tot stilstand</title>
+            <link>
+                https://www.nu.nl/tech/6270680/europese-ruimtevaart-komt-na-laatste-vlucht-ariane-5-raket-tot-stilstand.html</link>
+            <description>De Europese draagraket Ariane 5 gaat dinsdag rond 23.30 uur voor de laatste
+                keer de lucht in. Na bijna twintig jaar en 117 missies stopt de Europese
+                ruimtevaartorganisatie met de raket. Maar een opvolger staat nog niet direct klaar.</description>
+            <pubDate>Tue, 04 Jul 2023 13:42:25 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270680/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/ljox2tsam1ut_sqr256.jpg/europese-ruimtevaart-komt-na-laatste-vlucht-ariane-5-raket-tot-stilstand.jpg"></enclosure>
+            <category>Economie</category>
+            <category>Algemeen</category>
+            <category>Tech</category>
+            <category>login-vereist</category>
+            <category>Tech &amp; Wetenschap</category>
+            <dc:creator>Rutger Otto</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+        </item>
+        <item>
+            <title>Angela Groothuizen vindt coachen lastig door na The Voice aangescherpte regels</title>
+            <link>
+                https://www.nu.nl/media/6270779/angela-groothuizen-vindt-coachen-lastig-door-na-the-voice-aangescherpte-regels.html</link>
+            <description>Na het schandaal rondom&lt;em&gt; The voice of Holland &lt;/em&gt;zijn de
+                regels bij talentenjachten flink aangescherpt. Volgens Angela Groothuizen maken deze
+                nieuwe regels het moeilijk om haar werk als coach in het nieuwe programma&lt;em&gt;
+                The Talent Scouts&lt;/em&gt; goed te doen.</description>
+            <pubDate>Tue, 04 Jul 2023 13:10:40 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270779/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/ephxdx7abb5u_sqr256.jpg/angela-groothuizen-vindt-coachen-lastig-door-na-the-voice-aangescherpte-regels.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Media</category>
+            <category>Media en Cultuur</category>
+            <dc:creator>onze entertainmentredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+            <atom:link
+                href="https://nu.nl/uit-andere-media/6265259/roel-van-velzen-wonden-the-voice-heel-diep.html"
+                rel="related" title="Roel van Velzen: 'Wonden The Voice heel diep'" type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/binnenland/6260909/verdubbeling-aantal-meldingen-seksueel-geweld-na-onthullingen-the-voice.html"
+                rel="related"
+                title="Verdubbeling aantal meldingen seksueel geweld na onthullingen The Voice"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/media/6258261/slachtoffers-the-voice-willen-in-gesprek-met-top-van-britse-producent-itv.html"
+                rel="related"
+                title="Slachtoffers The Voice willen in gesprek met top van Britse producent ITV"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/media/6257250/the-voice-producent-itv-handelde-volgens-onderzoek-onjuist-bij-wangedrag.html"
+                rel="related"
+                title="The Voice-producent ITV handelde volgens onderzoek onjuist bij wangedrag"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/media/6255440/onderzoek-naar-misstanden-the-voice-na-veertien-maanden-nog-niet-afgerond.html"
+                rel="related"
+                title="Onderzoek naar misstanden The Voice na veertien maanden nog niet afgerond"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Stoltenberg blijft toch jaar langer NAVO-baas na mislukte zoektocht naar opvolger</title>
+            <link>
+                https://www.nu.nl/buitenland/6270783/stoltenberg-blijft-toch-jaar-langer-navo-baas-na-mislukte-zoektocht-naar-opvolger.html</link>
+            <description>Jens Stoltenberg blijft een jaar langer de secretaris-generaal van de NAVO.
+                Het is de vierde keer dat zijn termijn wordt verlengd. De 64-jarige Noor staat sinds
+                2014 aan het hoofd van de militaire alliantie.</description>
+            <pubDate>Tue, 04 Jul 2023 14:27:59 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270783/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/5pex3zfaaelu_sqr256.jpg/stoltenberg-blijft-toch-jaar-langer-navo-baas-na-mislukte-zoektocht-naar-opvolger.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Buitenland</category>
+            <category>Oorlog in Oekraïne</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: Reuters</dc:rights>
+            <atom:link
+                href="https://nu.nl/spanningen-oekraine/6268355/oekraine-mag-aanschuiven-bij-navo-toetreding-nog-niet-op-menu.html"
+                rel="related" title="Oekraïne mag aanschuiven bij NAVO, toetreding nog niet op menu"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/spanningen-oekraine/6261253/navo-heeft-bijna-alle-beloofde-wapens-aan-oekraine-geleverd.html"
+                rel="related" title="NAVO heeft bijna alle beloofde wapens aan Oekraïne geleverd"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/buitenland/6250913/ambtstermijn-navo-baas-stoltenberg-wordt-niet-opnieuw-verlengd.html"
+                rel="related" title="Ambtstermijn NAVO-baas Stoltenberg wordt niet opnieuw verlengd"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Captain Danick Snelder (33) stopt na gouden jaren bij Nederlandse handbalploeg</title>
+            <link>
+                https://www.nu.nl/sport-overig/6270780/captain-danick-snelder-33-stopt-na-gouden-jaren-bij-nederlandse-handbalploeg.html</link>
+            <description>Danick Snelder heeft dinsdag een punt achter haar interlandloopbaan gezet.
+                De 33-jarige cirkelloper maakte de succesjaren met de Nederlandse ploeg mee, maar
+                richt zich nu op haar club.</description>
+            <pubDate>Tue, 04 Jul 2023 12:18:22 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270780/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/getxsq7aqhjt_sqr256.jpg/captain-danick-snelder-33-stopt-na-gouden-jaren-bij-nederlandse-handbalploeg.jpg"></enclosure>
+            <category>Sport</category>
+            <category>Sport Overig</category>
+            <dc:creator>onze sportredactie</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+        </item>
+        <item>
+            <title>Ganzen veroorzaken miljoenen aan landbouwschade, wolven veel minder</title>
+            <link>
+                https://www.nu.nl/binnenland/6270778/ganzen-veroorzaken-miljoenen-aan-landbouwschade-wolven-veel-minder.html</link>
+            <description>Grauwe ganzen veroorzaakten in 2022 ruim 23 miljoen euro aan
+                landbouwschade. Ook het aantal meldingen over schade door wolven neemt toe. Maar met
+                235.188 euro aan vergoede schade valt dat in het niet bij de vernietigingskracht van
+                de ganzen.</description>
+            <pubDate>Tue, 04 Jul 2023 11:54:01 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270778/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/yqcx9hbahbty_sqr256.jpg/ganzen-veroorzaken-miljoenen-aan-landbouwschade-wolven-veel-minder.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+        </item>
+        <item>
+            <title>OM eist vier jaar cel tegen Alex S. voor leveren zelfdodingsmiddel</title>
+            <link>
+                https://www.nu.nl/binnenland/6270777/om-eist-vier-jaar-cel-tegen-alex-s-voor-leveren-zelfdodingsmiddel.html</link>
+            <description>Het Openbaar Ministerie heeft een celstraf van vier jaar geëist tegen Alex
+                S. De Eindhovenaar wordt ervan verdacht aan meerdere mensen een zelfdodingsmiddel te
+                hebben geleverd, het zogenoemde Middel X.</description>
+            <pubDate>Tue, 04 Jul 2023 14:25:01 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270777/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/hq1x9guatvbe_sqr256.jpg/om-eist-vier-jaar-cel-tegen-alex-s-voor-leveren-zelfdodingsmiddel.jpg"></enclosure>
+            <category>Algemeen</category>
+            <category>Binnenland</category>
+            <category>Binnen- en buitenland</category>
+            <dc:creator>onze nieuwsredactie</dc:creator>
+            <dc:rights>copyright photo: ANP</dc:rights>
+            <atom:link
+                href="https://nu.nl/binnenland/6270598/rechtszaak-van-start-tegen-man-die-op-grote-schaal-zelfdodingsmiddel-verkocht.html"
+                rel="related"
+                title="Rechtszaak van start tegen man die op grote schaal zelfdodingsmiddel verkocht"
+                type="text/html"></atom:link>
+            <atom:link
+                href="https://nu.nl/binnenland/6251362/verkoper-van-middel-x-verdacht-van-hulp-bij-zelfdoding-van-tien-mensen.html"
+                rel="related"
+                title="Verkoper van Middel X verdacht van hulp bij zelfdoding van tien mensen"
+                type="text/html"></atom:link>
+        </item>
+        <item>
+            <title>Video | Rusland schiet mogelijk Oekraïense drones uit de lucht boven Moskou</title>
+            <link>
+                https://www.nu.nl/videos/6270775/rusland-schiet-mogelijk-oekraiense-drones-uit-de-lucht-boven-moskou.html</link>
+            <description>Rusland zou vijf Oekraïense drones hebben onderschept in de lucht boven
+                Moskou. Het Russische ministerie van Buitenlandse Zaken beweert dat onder meer een
+                vliegveld een doelwit was.</description>
+            <pubDate>Tue, 04 Jul 2023 11:19:09 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270775/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/qoxxv3fag6ak_sqr256.jpg/rusland-schiet-mogelijk-oekraiense-drones-uit-de-lucht-boven-moskou.jpg"></enclosure>
+            <category>Buitenland</category>
+            <category>Video's</category>
+            <category>Oorlog in Oekraïne</category>
+            <dc:creator>onze videoredactie</dc:creator>
+        </item>
+        <item>
+            <title>Techbedrijven die privacy schenden verder in het nauw na uitspraak Europees Hof</title>
+            <link>
+                https://www.nu.nl/tech/6270771/techbedrijven-die-privacy-schenden-verder-in-het-nauw-na-uitspraak-europees-hof.html</link>
+            <description>Techbedrijven die onze privacy schenden, benadelen bedrijven die zich wél
+                netjes aan de regels houden. Dat heeft het Europese Hof van Justitie bepaald. Daarom
+                mag privacyschending voortaan ook door een concurrentiewaakhond worden aangepakt. En
+                dat kan techbedrijven fikse boetes opleveren.</description>
+            <pubDate>Tue, 04 Jul 2023 12:55:26 +0200</pubDate>
+            <guid isPermaLink="false">https://www.nu.nl/-/6270771/</guid>
+            <enclosure length="0" type="image/jpeg"
+                url="https://media.nu.nl/m/ar6xc2kay6om_sqr256.jpg/techbedrijven-die-privacy-schenden-verder-in-het-nauw-na-uitspraak-europees-hof.jpg"></enclosure>
+            <category>Economie</category>
+            <category>Algemeen</category>
+            <category>Tech</category>
+            <category>Tech &amp; Wetenschap</category>
+            <dc:creator>Tim Wijkman-van Aalst</dc:creator>
+            <dc:rights>copyright photo: Getty Images</dc:rights>
+        </item>
+    </channel>
+</rss>
