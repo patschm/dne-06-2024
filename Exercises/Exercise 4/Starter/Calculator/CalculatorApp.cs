@@ -18,14 +18,14 @@ public partial class CalculatorApp : Form
             //Task.Run(() => LongAdd(a, b))
             //   .ContinueWith(pt=>_main?.Send(UpdateAnswer, pt.Result));
             //var result=await LongAddAsync(a, b);
-            var result = DoeIets(a, b).Result;
+            var result = DoeIets(a, b).Result; // Dead lock!
             UpdateAnswer(result);
         }
     }
 
     private async Task<int> DoeIets(int a, int b)
     {
-        var res = await LongAddAsync(a,b);
+        var res = await LongAddAsync(a,b).ConfigureAwait(false);
         return res;
     }
 
