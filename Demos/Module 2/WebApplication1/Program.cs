@@ -11,7 +11,9 @@ namespace WebApplication1
             foreach (var item in builder.Services) {
                 Console.WriteLine(item?.ImplementationType?.Name);
             }
-            
+
+            builder.Logging.AddConsole();
+
             // Add services to the container.
             builder.Services.AddRazorPages();
             builder.Services.AddTransient<ICounter, Counter>();

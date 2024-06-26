@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>log</Title>
+			<Shortcut>lg</Shortcut>
+			<Description>Code snippet for Logger</Description>
+			<Author>Yunex Corporation</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="false">
+					<ID>Logger</ID>
+					<Function>SimpleTypeName(global::LoggerFactory)</Function>
+				</Literal>
+			</Declarations>
+			<Code Language="csharp"><![CDATA[var factory = LoggerFactory.Create(config => {
+            config.AddFilter((cat, lvl) =>
+            {
+                return cat == typeof(LogVictim).FullName && lvl >= LogLevel.Debug;
+            });
+            
+
+            config.ClearProviders();
+            config.AddConsole();
+            
+        });]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

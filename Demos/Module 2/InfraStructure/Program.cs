@@ -20,6 +20,8 @@ internal class Program
 {
     static void Main(string[] args)
     {
+        
+
         //EnvironmentSettings();
         //Configuration();
         //Secrets();
@@ -115,19 +117,19 @@ internal class Program
     }
     private static void Logging()
     {
-        var builder = new ConfigurationBuilder();
-        builder.SetBasePath(Environment.CurrentDirectory);
-        builder.AddJsonFile("appsettings.json", optional:false, reloadOnChange:true);
-        var config2 = builder.Build();
+        //var builder = new ConfigurationBuilder();
+        //builder.SetBasePath(Environment.CurrentDirectory);
+        //builder.AddJsonFile("appsettings.json", optional:false, reloadOnChange:true);
+        //var config2 = builder.Build();
 
         var factory = LoggerFactory.Create(config => {
             // In code:
-            //config.AddFilter((cat, lvl) =>
-            //{
-            //    return cat == typeof(LogVictim).FullName && lvl >= LogLevel.Debug;
-            //});
+            config.AddFilter((cat, lvl) =>
+            {
+                return cat == typeof(LogVictim).FullName && lvl >= LogLevel.Debug;
+            });
             // In config:
-            config.AddConfiguration(config2.GetSection("Logging"));
+            //config.AddConfiguration(config2.GetSection("Logging"));
 
             config.ClearProviders();
             // From package: Microsoft.Extensions.Logging.Console

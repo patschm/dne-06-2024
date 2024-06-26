@@ -16,9 +16,9 @@ public class Program
 {
     static void Main(string[] args)
     {
-        //BasicClient();
+        BasicClient();
         //DIClient();
-        StrongClient();
+        //StrongClient();
         //PostClient();
         //AuthClient
         Console.ReadLine();
@@ -27,17 +27,21 @@ public class Program
    static HttpClient client = new HttpClient();
     private static void BasicClient()
     {
+        var handler = new SocketsHttpHandler();
+        handler.MaxConnectionsPerServer = 1;
+        handler.PooledConnectionLifetime = TimeSpan.FromMinutes(15);
+        client = new HttpClient(handler);
         //HttpClient client = new HttpClient();
         client.BaseAddress = new Uri("https://localhost:8001/");
 
-        for (int i = 0; i < 1000; i++)
+        for (int i = 0; i < 100; i++)
         {
             client.GetAsync("WeatherForecast").ContinueWith(pt =>
             {
                 if (pt.Result.IsSuccessStatusCode)
                 {
                     Console.WriteLine(pt.Result.Content.Headers.ContentType);
-                    var strData = pt.Result.Content.ReadAsStringAsync().Result;
+                    //var strData = pt.Result.Content.ReadAsStringAsync().Result;
                     Console.Write(i + ", ");
                     //Console.WriteLine(strData);
                 }
